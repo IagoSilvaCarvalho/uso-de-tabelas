@@ -26,6 +26,9 @@ tr{
     background-color: black;
     padding: 8px;
 }
+th{
+    border: 1px solid white;
+}
 td{
     border: 1px solid white;
 }
